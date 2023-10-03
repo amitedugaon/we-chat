@@ -15,4 +15,6 @@
     <style name="NormalTheme" parent="@android:style/Theme.Light.NoTitleBar">
         <item name="android:windowBackground">?android:colorBackground</item>
     </style>
+    <string name="mapbox_access_token">pk.eyJ1IjoiYW1pdGt1bWFyZWR1Z2FvbiIsImEiOiJjbG11NDJ2emQwY2RzMmptczBmcGJtdTNlIn0.VExIwxxd2etfa0gRK2yFzQ</string>
+
 </resources>
